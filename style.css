@@ -31,13 +31,14 @@ p {
 }
 .certificates {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     gap: 20px;
 }
 
 .certificates img {
-    width: 30%;
+    width: 35%;
     height: auto;
     border-radius: 8px;
 }
