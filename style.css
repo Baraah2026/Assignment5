@@ -1,0 +1,43 @@
+body {
+    background-color: #f5efe6;
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+h1 {
+    text-align: center;
+    color: #345c48;
+    font-size: 36px;
+}
+
+h2 {
+    color: #345c48;
+    font-size: 26px;
+}
+
+p {
+    font-size: 18px;
+}
+.left-image {
+    text-align: left;
+}
+
+.center-image {
+    text-align: center;
+}
+
+.right-image {
+    text-align: right;
+}
+.certificates {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.certificates img {
+    width: 30%;
+    height: auto;
+    border-radius: 8px;
+}
