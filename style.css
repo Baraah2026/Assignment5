@@ -37,8 +37,12 @@ p {
     gap: 20px;
 }
 
-.certificates img {
+.certificates a {
     width: 35%;
+}
+
+.certificates img {
+    width: 100%;
     height: auto;
     border-radius: 8px;
 }
