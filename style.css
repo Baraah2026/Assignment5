@@ -2,6 +2,7 @@ body {
     background-color: #f5efe6;
     font-family: Arial, sans-serif;
     color: #333333;
+    padding: 30px;
 }
 
 h1 {
@@ -38,7 +39,7 @@ p {
 }
 
 .certificates a {
-    width: 35%;
+    width: 30%;
 }
 
 .certificates img {
